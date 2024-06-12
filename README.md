@@ -17,7 +17,7 @@ The MadTrain is a mobile application designed to help users find the nearest Ren
 <table>
   <tr>
     <td>
-      <img src="C:\Users\Lauri\OneDrive\Escritorio\pagPrincipal.jpg" width="80%" alt="Pantalla principal en la que se calcula su ubicación actual"/>
+      <img src="distancia.JPG" width="80%" alt="Pantalla principal en la que se calcula su ubicación actual"/>
       <p align="center">Pantalla principal en la que se calcula su ubicación actual</p>
     </td>
     <td>
