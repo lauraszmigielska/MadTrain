@@ -65,7 +65,7 @@ Video demonstrating how the app works (Max 1 video of 1 minute), upload it to a 
 5 User Identifier: Users can optionally provide a unique identifier to personalize their experience.
 
 
-List the **technical** features of the app. You might include specific references to source code
+## List the **technical** features of the app.
 1 Persistence in CSV/Text File:
 The app persists data related to user preferences and station information in CSV files for easy reading and writing operations.
 
