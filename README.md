@@ -17,27 +17,27 @@ Include screenshots of the app in action. You can upload the images to GitHub an
 <table>
   <tr>
     <td>
-      <img src="img/nav1.png" width="80%" alt="Describe here image 1"/>
+      <img src="C:\Users\Lauri\OneDrive\Escritorio\pagPrincipal.jpg" width="80%" alt="Describe here image 1"/>
       <p align="center">Describe here image 1</p>
     </td>
     <td>
-      <img src="img/nav2.png" width="80%" alt="Describe here image 2"/>
+      <img src="C:\Users\Lauri\OneDrive\Escritorio\ubicaciónActual.jpg" width="80%" alt="Describe here image 2"/>
       <p align="center">Describe here image 2</p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="img/nav3.png" width="80%" alt="Describe here image 3"/>
+      <img src="C:\Users\Lauri\OneDrive\Escritorio\estacionesRenfe.jpg" width="80%" alt="Describe here image 3"/>
       <p align="center">Describe here image 3</p>
     </td>
     <td>
-      <img src="img/nav4.png" width="80%" alt="Describe here image 4"/>
+      <img src="C:\Users\Lauri\OneDrive\Escritorio\distancia.jpg" width="80%" alt="Describe here image 4"/>
       <p align="center">Describe here image 4</p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="img/nav6.png" width="80%" alt="Describe here image 5"/>
+      <img src="C:\Users\Lauri\OneDrive\Escritorio\lista.jpg" width="80%" alt="Describe here image 5"/>
       <p align="center">Describe here image 5</p>
     </td>
     <td>
