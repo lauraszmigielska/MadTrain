@@ -17,27 +17,27 @@ The MadTrain is a mobile application designed to help users find the nearest Ren
 <table>
   <tr>
     <td>
-      <img src="distancia.JPG" width="80%" alt="Pantalla principal en la que se calcula su ubicación actual"/>
+      <img src="pagPrincipal.JPG" width="80%" alt="Pantalla principal en la que se calcula su ubicación actual"/>
       <p align="center">Pantalla principal en la que se calcula su ubicación actual</p>
     </td>
     <td>
-      <img src="C:\Users\Lauri\OneDrive\Escritorio\ubicaciónActual.jpg" width="80%" alt="Tu ubicación actual señalizada en el mapa"/>
+      <img src="ubicaciónActual.jpg" width="80%" alt="Tu ubicación actual señalizada en el mapa"/>
       <p align="center">Tu ubicación actual señalizada en el mapa</p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="C:\Users\Lauri\OneDrive\Escritorio\estacionesRenfe.jpg" width="80%" alt="Las estaciones de renfe señalizadas en el mapa"/>
+      <img src="estacionesRenfe.jpg" width="80%" alt="Las estaciones de renfe señalizadas en el mapa"/>
       <p align="center">Las estaciones de renfe señalizadas en el mapa</p>
     </td>
     <td>
-      <img src="C:\Users\Lauri\OneDrive\Escritorio\distancia.jpg" width="80%" alt="Distancia calculada"/>
+      <img src="distancia.JPG" width="80%" alt="Distancia calculada"/>
       <p align="center">Distancia calculada</p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="C:\Users\Lauri\OneDrive\Escritorio\lista.jpg" width="80%" alt="Lista de estaciones Renfe"/>
+      <img src="lista.jpg" width="80%" alt="Lista de estaciones Renfe"/>
       <p align="center">Lista de estaciones Renfe</p>
     </td>
     <td>
