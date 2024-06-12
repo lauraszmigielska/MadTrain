@@ -55,9 +55,13 @@ Video demonstrating how the app works (Max 1 video of 1 minute), upload it to a 
 
 ## Features
 1 Location-Based Search: The app uses the device's GPS to pinpoint the user's current location.
+
 2 Station Distance Calculation: It calculates the distance between the user's location and nearby Renfe train stations.
+
 3 List of Renfe Stations: The app presents a list of Renfe stations.
+
 4 Map View: Users can view the locations of nearby stations on a map for better visualization.
+
 5 User Identifier: Users can optionally provide a unique identifier to personalize their experience.
 
 
