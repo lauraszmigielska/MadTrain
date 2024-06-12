@@ -27,7 +27,7 @@ The MadTrain is a mobile application designed to help users find the nearest Ren
   </tr>
   <tr>
     <td>
-      <img src="estacionesRenfe.jpg" width="80%" alt="Las estaciones de renfe señalizadas en el mapa"/>
+      <img src="estacionesRenfe.JPG" width="80%" alt="Las estaciones de renfe señalizadas en el mapa"/>
       <p align="center">Las estaciones de renfe señalizadas en el mapa</p>
     </td>
     <td>
