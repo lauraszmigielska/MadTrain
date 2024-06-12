@@ -18,27 +18,27 @@ The MadTrain is a mobile application designed to help users find the nearest Ren
   <tr>
     <td>
       <img src="C:\Users\Lauri\OneDrive\Escritorio\pagPrincipal.jpg" width="80%" alt="Pantalla principal en la que se calcula su ubicación actual"/>
-      <p align="center">Describe here image 1</p>
+      <p align="center">Pantalla principal en la que se calcula su ubicación actual</p>
     </td>
     <td>
       <img src="C:\Users\Lauri\OneDrive\Escritorio\ubicaciónActual.jpg" width="80%" alt="Tu ubicación actual señalizada en el mapa"/>
-      <p align="center">Describe here image 2</p>
+      <p align="center">Tu ubicación actual señalizada en el mapa</p>
     </td>
   </tr>
   <tr>
     <td>
       <img src="C:\Users\Lauri\OneDrive\Escritorio\estacionesRenfe.jpg" width="80%" alt="Las estaciones de renfe señalizadas en el mapa"/>
-      <p align="center">Describe here image 3</p>
+      <p align="center">Las estaciones de renfe señalizadas en el mapa</p>
     </td>
     <td>
       <img src="C:\Users\Lauri\OneDrive\Escritorio\distancia.jpg" width="80%" alt="Distancia calculada"/>
-      <p align="center">Describe here image 4</p>
+      <p align="center">Distancia calculada</p>
     </td>
   </tr>
   <tr>
     <td>
       <img src="C:\Users\Lauri\OneDrive\Escritorio\lista.jpg" width="80%" alt="Lista de estaciones Renfe"/>
-      <p align="center">Describe here image 5</p>
+      <p align="center">Lista de estaciones Renfe</p>
     </td>
     <td>
     </td>
@@ -94,7 +94,10 @@ GPS sensors are leveraged to obtain the user's current location, which is crucia
 
 
 ## How to Use
-Provide instructions on how to get started with the app as user. 
+Upon launching the app, users are prompted to grant location permissions.
+Once permissions are granted, the app retrieves the user's current location using GPS.
+In "Map" you can see your actual location and Renfe stations locations on the map, if you click on one of the stations you can see your distance to the station.
+In "Collection" you have a list of the Renfe stations.
 
 
 ## Target Audience:
